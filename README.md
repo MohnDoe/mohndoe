@@ -7,26 +7,25 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Learning Rust - Playing around with Discord Activity SDK, NextJS and Hono.
+> Currently playing around with Discord Activity SDK, TS and Hono.
 
 🍭 **[chevy.fit](https://chevy.fit/)** – Hevy (weightlifting) companion and Discord Bot
 
 ## Current Projects
 
-- 🔢 **[su.doe.cool](https://github.com/mohndoe/su.doe.cool)** - Play Daily sudoku puzzles together, on Discord Activity
-- mappi
-- chevy
-- Pokémon Unbound FR
-- Pokémon Yume FR
-- Ligne
-- There's Options
+- 🔢 **[sudoecool](https://github.com/mohndoe/sudoecool)** - Play Daily sudoku puzzles together, on Discord Activity - (Bun, NextJS, Hono)
+- 🃏 **[mappi](https://github.com/MohnDoe/mappi)** - Realistic Magic the Gathering pack opening API (Hono)
+- 💪 **[chevy](https://github.com/MohnDoe/chevy)** - Hevy companion Discord Bot (NodeJS, TS)
+- 🐉 **[Pokémon Unbound FR](https://github.com/MohnDoe/Pokemon-Unbound-FR)** / **[Pokémon Yume FR](https://github.com/MohnDoe/yumepokered-fr)** - Semi-automated translation of Pokémon Yume & Pokemon Unbound ROM Hack using PokeAPI (Assembly, HMA, NodeJS)
+- 📈 **[Ligne](https://github.com/MohnDoe/progres-app-flutter)** - Physical transformation timelapse generator with stabilization (Flutter)
+- 😭 **There's Options [API](https://github.com/MohnDoe/theres-options-api) & [Mobile Game](https://github.com/MohnDoe/isaacs-choice-godot)** - Choose what BOI item you would choose (Godot, NodeJS)
 
 ### Legacy Work
-- 🎮 **[1958](https://github.com/mohndoe/the1958)** - my first website, allow gamers to review gamess
-- roo.money
-- dailypixel.art
-- Fixin
-- Doughy
+- 🎮 **[1958](https://github.com/mohndoe/the1958)** - allow gamers to review gamess (AngularJS)
+- 🦘 **[roo.money](https://github.com/MohnDoe/roo.money)** - just how much money did you spend on Deliveroo?
+- 🎨 **[dailypixel.art](https://github.com/MohnDoe/dailypixelart-frontend)** - web and Twitter app for best pixel art shared on Twitter (Vue, NodeJS)
+- 🪛 **[Fixin](https://github.com/MohnDoe/fixin)** - Notification for device repairs
+- 💰 **Doughy** - Stripe transaction notifications on Telegram
 
 
 ## GitHub Activity
