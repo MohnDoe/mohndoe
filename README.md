@@ -13,7 +13,7 @@
 
 ## Current Projects
 
-- 🔢 **[sudoecool](https://github.com/mohndoe/sudoecool)** - Play Daily sudoku puzzles together, on Discord Activity - (Bun, NextJS, Hono)
+- 🔢 **[sudoecool](https://github.com/mohndoe/sdc)** - Play Daily sudoku puzzles together, on Discord Activity - (Nuxt 4 and things)
 - 🃏 **[mappi](https://github.com/MohnDoe/mappi)** - Realistic Magic the Gathering pack opening API (Hono)
 - 💪 **[chevy](https://github.com/MohnDoe/chevy)** - Hevy companion Discord Bot (NodeJS, TS)
 - 🐉 **[Pokémon Unbound FR](https://github.com/MohnDoe/Pokemon-Unbound-FR)** / **[Pokémon Yume FR](https://github.com/MohnDoe/yumepokered-fr)** - Semi-automated translation of Pokémon Yume & Pokemon Unbound ROM Hack using PokeAPI (Assembly, HMA, NodeJS)
