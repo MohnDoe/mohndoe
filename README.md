@@ -1,6 +1,4 @@
-# Hi, I'm Kevin 👋
-
-📍 **Nancy** | **Product engineer**
+📍 **Nancy** | **Full-stack product engineer**
 
 > I design and build services, experiences and products.
 
