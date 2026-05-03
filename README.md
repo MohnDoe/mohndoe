@@ -1,8 +1,7 @@
 📍 **Nancy** | **Full-stack product engineer**
 
-> I design and build services, experiences and products.
+**Currently recreating Path of Exile's passive tree in TypeScript.**
 
-🍭 **[chevy.fit](https://chevy.fit/)** – Hevy companion and Discord Bot
 
 ### Projects
 
