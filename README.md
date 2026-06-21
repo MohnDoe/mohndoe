@@ -1,6 +1,8 @@
 📍 **Nancy** | **Full-stack product engineer**
 
-🤹‍♂ **[poe-passive-tree](https://github.com/mohndoe/poe-passive-tree)** - Currently recreating Path of Exile's passive tree in TypeScript and Vue.js.
+🧱 **[@mohndoe/pi-tui-extras](https://github.com/mohndoe/pi-tui-extras)** - Component library of pi.dev extensions.
+
+🤹‍♂ **[poe-passive-tree](https://github.com/mohndoe/poe-passive-tree)** - Recreating Path of Exile's passive tree in TypeScript, Vue.js and WebGL.
 
 
 ### Projects
