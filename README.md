@@ -1,12 +1,14 @@
 📍 **Nancy** | **Full-stack product engineer**
 
+### Currently working on
+📊 **[@mohndoe/pi-atlas](https://github.com/mohndoe/pi-atlas)** - Pi extension for usage and cost insights.
+
 🧱 **[@mohndoe/pi-tui-extras](https://github.com/mohndoe/pi-tui-extras)** - Component library of pi.dev extensions.
 
-🤹‍♂ **[poe-passive-tree](https://github.com/mohndoe/poe-passive-tree)** - Recreating Path of Exile's passive tree in TypeScript, Vue.js and WebGL.
 
 
 ### Projects
-
+- 🤹‍♂ **[poe-passive-tree](https://github.com/mohndoe/poe-passive-tree)** - Recreating Path of Exile's passive tree in TypeScript, Vue.js and WebGL.
 - 🔢 **[sudoecool](https://github.com/mohndoe/sudoecool)** - Play Daily sudoku puzzles together, on Discord Activity - (Nuxt 4 and things)
 - 💪 **[chevy.fit](https://github.com/MohnDoe/chevy)** - Hevy companion Discord Bot (NodeJS, TS)
 - 🃏 **[mappi](https://github.com/MohnDoe/mappi)** - Realistic Magic the Gathering pack opening API (Hono)
