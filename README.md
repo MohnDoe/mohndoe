@@ -1,9 +1,9 @@
 📍 **Nancy** | **Full-stack product engineer**
 
 ### Currently working on
-📊 **[@mohndoe/pi-atlas](https://github.com/mohndoe/pi-atlas)** (20+ ⭐️)- Pi extension for usage and cost insights.
+📊 **[@mohndoe/pi-atlas](https://github.com/mohndoe/pi-atlas)** (10+ ⭐️)- Pi extension for usage and cost insights.
 
-🧱 **[@mohndoe/pi-tui-extras](https://github.com/mohndoe/pi-tui-extras)** - Component library of pi.dev extensions.
+🧱 **[@mohndoe/pi-tui-extras](https://github.com/mohndoe/pi-tui-extras)** - Component library of pi.dev TUI extensions.
 
 
 
